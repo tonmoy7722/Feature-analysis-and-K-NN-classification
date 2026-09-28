@@ -1,5 +1,4 @@
 """
-CSCI435/CSCI935 Computer Vision: Algorithms and Systems - Assignment One
 Feature analysis and K-NN classification on the Animals10 dataset.
 
 Command-line usage:
