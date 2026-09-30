@@ -7,7 +7,7 @@ Command-line usage:
     python a1.py -f HOG <image-file-path>
     python a1.py -r <main-image-folder>
 
-Author: TONMOY DAY SARKAR
+Author: TONMOY DAY SARKAR.
 """
 
 import os
